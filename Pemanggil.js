@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/09/cyber-security.html"}
-if(x=="2"){xxx="/2018/09/access-security.html"}
-if(x=="3"){xxx="/2018/09/security-explore.html"}
-if(x=="4"){xxx="/2018/09/data-security.html"}
-if(x=="5"){xxx="/2018/09/internet-protection.html"}a_to_ve[i].href="https://sc.septila.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/03/bank-review-high-interest-checking.html"}
+if(x=="2"){xxx="/2019/03/barclays-bank-review-high-powered.html"}
+if(x=="3"){xxx="/2019/03/leap-life-insurance-review-quick.html"}
+if(x=="4"){xxx="/2019/03/5-types-of-insurance-policies-you-need5.html"}
+if(x=="5"){xxx="/2019/03/5-things-about-traveler-insurance-that.html"}a_to_ve[i].href="https://sc.septila.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
